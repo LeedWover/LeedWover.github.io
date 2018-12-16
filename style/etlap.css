@@ -1,0 +1,21 @@
+body { 
+    background: url(../img/menubg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+.container {
+    background: #f4f4f4;
+    
+}
+
+.card {
+    margin: 20px;
+}
+
+.category {
+    margin-left: 15px;
+}
